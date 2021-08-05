@@ -1,0 +1,27 @@
+﻿Variable|Descriptiion
+date_time|Date of record entry mm/dd/yyyy hh:mm:ss
+RY VOLTAGE|Line voltag between 2 phases of polyphase system
+YB VOLTAGE|Line voltag between 2 phases of polyphase system
+BR VOLTAGE|Line voltag between 2 phases of polyphase system
+R PHASE CURRENT|single phase current
+Y PHASE CURRENT|single phase current
+B PHASE CURRENT|single phase current
+PF|power factor
+ FREQUENCY|frequency
+APPARENT POWER|Combination of active and reactive power
+ACTIVE POWER|Wats
+REACTIVE POWER|kVAR 
+TODAY EXPORT|Export of power to grid for day till now
+TODAY IMPORT|impot of power from grid for day till now
+TOTAL EXPORT|Total power exported to grid
+TOTAL IMPORT|total power imported from grid
+HORIZONTAL RADIATION|Irradiance on horizonta surface
+TILT_RADIATION|Radiation measured based on fixed tilt
+DAY HORIZONTAL RADIATION|mean day radiation on horizontal surface
+DAY TILT RADIATION|mean day radiation on tilted surface
+MODULE TEMPERATURE|Temperature of module at time of day
+AMBIENT TEMPERATURE|ambient termperature at location
+WIND SPEED|speed of wind
+WIND DIRECTION|direction of wind flow
+HUMIDITY|humidy 
+RAIN|precipitation in location of solar site
